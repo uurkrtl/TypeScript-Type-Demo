@@ -1,3 +1,5 @@
+[Click for codes](https://github.com/uurkrtl/TypeScript-Type-Demo/blob/main/src/main.ts)
+
 ## Coding: TypeScript Type
 
 In this task, the goal is to define the type "Student" in TypeScript. Each student should have a first name, last name, age, and a property "grades" that contains a list of grades. In this first step, a grade should be an integer from 1 to 6. Choose suitable English names for the attributes. Then create a student and output it in the console.
